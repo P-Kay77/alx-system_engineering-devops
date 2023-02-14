@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv
+./list_env_vars.sh
